@@ -7,6 +7,7 @@ SCTabbarAndNavigationBarController
 截图
 ==================================
 ![截图1](https://raw.github.com/justzt/SCTabbarAndNavigationBarController/master/a.png)
+
 ![截图2](https://raw.github.com/justzt/SCTabbarAndNavigationBarController/master/b.png)
 配置
 =================================
